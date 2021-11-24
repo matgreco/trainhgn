@@ -1,0 +1,2449 @@
+[
+  {
+    "NumberOfSTRIPSProblems": {
+      "value": 99,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:36.208586"
+    }
+  },
+  {
+    "GenerateSTRIPSProblemsTime": {
+      "value": 3.212873280999702,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:36.208679"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11131809299877204,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:36.334398"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:36.334406"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09062368900049478,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.425572"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.425582"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09216345300046669,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.518263"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.518272"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09503074300118897,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.613921"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.613932"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09684071500123537,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.711310"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.711319"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09269986099934613,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.804550"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.804558"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10133614400001534,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.906422"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:36.906431"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09565523999845027,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:37.002653"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:37.002664"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09884070099906239,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:37.102053"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:37.102062"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0929889800008823,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.195582"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.195591"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09267650899892033,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.288883"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.288894"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09190136399956828,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:37.381459"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:37.381470"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09652501299933647,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.478645"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.478657"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0974563780000608,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.576747"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.576757"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09612718899916217,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.673549"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.673560"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0997233870002674,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.773838"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.773847"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09816708300058963,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.872558"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.872566"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09912969600009092,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.972306"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:37.972316"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10131926900066901,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:38.074198"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:38.074207"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0965828539992799,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.171405"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.171415"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09713526300038211,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.269227"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.269239"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09367493799982185,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.363524"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.363536"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09077804399930756,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.454958"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.454971"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10235659600039071,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.557995"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.558006"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1014499649991194,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.660072"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.660082"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09790547599914134,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.758545"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.758554"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10562242100058938,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.864915"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.864926"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10521116000018083,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.970800"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:38.970809"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10427007300131663,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:39.075665"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:39.075674"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.097251879000396,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.173666"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.173679"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10183570099979988,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.276099"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.276108"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09530398100105231,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.372047"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.372057"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10423754700059362,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.476890"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.476899"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09126057200046489,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:39.568707"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:39.568720"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10364426900014223,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.672895"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.672904"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10199175900015689,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.775547"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.775561"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10762510799941083,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.883730"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.883739"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10619069700078398,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.990600"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:39.990610"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10639987700051279,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:40.097638"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:40.097651"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10270886099897325,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.200991"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.201003"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10139491399968392,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.302986"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.302995"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09950406499956443,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.403129"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.403141"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10620895699867106,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.509911"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 10,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.509921"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10708807099945261,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.617539"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.617551"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0911297740003647,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:40.709317"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:40.709329"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1068374810001842,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.816744"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.816754"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11262912600068375,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.929910"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:40.929920"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11107472699950449,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:41.041510"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 14,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:41.041520"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11111804800020764,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:41.153223"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 12,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c3-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:41.153232"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09882152799946198,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.252623"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 5,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.252634"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11755583200101682,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.370714"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 19,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.370724"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10133780400065007,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.472608"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.472617"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10330679499929829,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.576510"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 4,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.576522"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1036494780000794,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.680869"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.680882"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11379453799963812,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.795295"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.795305"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09470823199990264,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.890579"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.890588"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10803936000047543,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.999217"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:41.999225"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.21375727999839,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:42.213587"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 20,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:42.213597"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11993669199910073,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:42.334074"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 17,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:42.334083"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10239114700016216,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.437051"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 5,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.437071"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.13948354499916604,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.577120"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 19,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.577129"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11327243400046427,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.690929"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.690938"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1098391100003937,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.801331"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 4,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.801343"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11017202099901624,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.912040"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:42.912049"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.12966096799937077,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.042272"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.042282"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11060345500118274,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.153443"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.153453"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09578303899979801,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:43.249859"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:43.249870"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.3423661910001101,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.592795"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 20,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.592804"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.14818304700020235,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.741541"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 17,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:43.741549"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10611215199969593,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:43.848324"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 5,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:43.848337"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.18515760800073622,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.034045"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 19,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.034057"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.12788387799992051,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.162501"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.162509"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10852562000036414,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.271649"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 4,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.271659"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11175892599931103,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.383994"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.384016"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.14576477099944896,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.530437"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s3-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.530447"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11633259000154794,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.647650"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:44.647660"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.575014910000391,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:45.223258"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 20,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:45.223267"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09701632899850665,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.320825"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.320835"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.17577007199906802,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:45.497134"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 17,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c4-s4-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:45.497145"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10548390900112281,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.603198"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.603209"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.12958711899955233,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.733396"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 19,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.733405"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.10499546500068391,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.838994"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.839004"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11196972300058405,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.951520"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:45.951530"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1329552639999747,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.085067"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 19,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.085076"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11549667799954477,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.201258"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.201268"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.16233265700066113,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.364152"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 16,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.364162"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.20431906999874627,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.569096"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 22,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.569107"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.14008419899982982,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.709764"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 17,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.709774"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09895626199977414,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.809333"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 13,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c2-s4-p2-a2"
+      },
+      "timestamp": "2021-09-29 11:43:46.809344"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1073584280002251,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:46.917380"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 8,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:46.917392"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1739227790003497,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.091918"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 19,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.091928"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11037818900149432,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.202890"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.202899"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.13677360499968927,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.340260"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.340279"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.15688444999977946,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.497728"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 19,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.497738"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.13232872600019618,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.630590"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 15,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s3-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.630600"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.3006171599990921,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.931747"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 16,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:47.931757"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.27264746699984244,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:48.204936"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 22,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:48.204946"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1640955839993694,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:48.369652"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 17,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s4-p2-a3"
+      },
+      "timestamp": "2021-09-29 11:43:48.369662"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.11422705800032418,
+      "unit": "seconds",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:48.484573"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips",
+        "problem": "logistics-c5-s2-p2-a4"
+      },
+      "timestamp": "2021-09-29 11:43:48.484585"
+    }
+  },
+  {
+    "TotalNumberOfStateValuePairs": {
+      "value": 1216,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:48.484795"
+    }
+  },
+  {
+    "GenerateAllOptimalStateValuePairsTime": {
+      "value": 12.262140463000833,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:48.484917"
+    }
+  },
+  {
+    "NumberofMergedTrainingPairs": {
+      "value": 1216,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips"
+      },
+      "timestamp": "2021-09-29 11:43:48.487531"
+    }
+  },
+  {
+    "TotalNumberOfMergedTrainingPairs": {
+      "value": 1216,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:48.487730"
+    }
+  },
+  {
+    "FinalNumberOfTrainingPairs": {
+      "value": 1216,
+      "unit": "count",
+      "context": {
+        "domain": "logistics-strips"
+      },
+      "timestamp": "2021-09-29 11:43:48.490615"
+    }
+  },
+  {
+    "NumberOfTrainingPairsProcessed": {
+      "value": 6080,
+      "unit": "count",
+      "context": {
+        "operation": "StratifiedKFold",
+        "domain": "logistics-strips"
+      },
+      "timestamp": "2021-09-29 11:43:48.493739"
+    }
+  },
+  {
+    "TotalFinalNumberOfTrainingPairs": {
+      "value": 1216,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:48.493860"
+    }
+  },
+  {
+    "TotalNumberOfTrainingPairsProcessed": {
+      "value": 6080,
+      "unit": "count",
+      "context": {
+        "operation": "StratifiedKFold"
+      },
+      "timestamp": "2021-09-29 11:43:48.493864"
+    }
+  },
+  {
+    "GetKFoldTrainingDataTime": {
+      "value": 0.006127880000349251,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:48.493993"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.GenerateTrainingDataTime": {
+      "value": 12.51173952299905,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-29 11:43:48.734516"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.ConvertToHypergraphsTupleTime": {
+      "value": 14.93957276600122,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-29 11:44:03.674413"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.TotalTime": {
+      "value": 27.453059983001367,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-29 11:44:03.675837"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 29992.107447451002,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-29 20:40:18.426152"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 29992.149609677,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 0
+      },
+      "timestamp": "2021-09-29 20:40:18.426253"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 859,
+      "unit": "count",
+      "context": {
+        "fold_idx": 0
+      },
+      "timestamp": "2021-09-29 20:40:18.427266"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 29990.319773595,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-30 05:00:08.750835"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 29990.323357759997,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 1
+      },
+      "timestamp": "2021-09-30 05:00:08.750962"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 803,
+      "unit": "count",
+      "context": {
+        "fold_idx": 1
+      },
+      "timestamp": "2021-09-30 05:00:08.751991"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 29969.132505011003,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-30 13:19:37.888854"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 29969.136412862004,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 2
+      },
+      "timestamp": "2021-09-30 13:19:37.888973"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 860,
+      "unit": "count",
+      "context": {
+        "fold_idx": 2
+      },
+      "timestamp": "2021-09-30 13:19:37.890044"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 29992.209683431996,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-30 21:39:30.104056"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 29992.213559630007,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 3
+      },
+      "timestamp": "2021-09-30 21:39:30.104157"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 911,
+      "unit": "count",
+      "context": {
+        "fold_idx": 3
+      },
+      "timestamp": "2021-09-30 21:39:30.105155"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 1670.3691904480074,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-30 22:07:20.478585"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 1670.3730397659965,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 4
+      },
+      "timestamp": "2021-09-30 22:07:20.478723"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 47,
+      "unit": "count",
+      "context": {
+        "fold_idx": 4
+      },
+      "timestamp": "2021-09-30 22:07:20.479750"
+    }
+  },
+  {
+    "TrainingDriverMethodTime": {
+      "value": 121644.91799846399,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-30 22:07:20.514923"
+    }
+  }
+]

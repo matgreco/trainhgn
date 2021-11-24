@@ -1,0 +1,931 @@
+[
+  {
+    "NumberOfSTRIPSProblems": {
+      "value": 30,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:34.586900"
+    }
+  },
+  {
+    "GenerateSTRIPSProblemsTime": {
+      "value": 0.10214014200028032,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:34.587005"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.1297684470191598,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-1"
+      },
+      "timestamp": "2021-09-09 18:43:34.718017"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 3,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-1"
+      },
+      "timestamp": "2021-09-09 18:43:34.718039"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08347106399014592,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-2"
+      },
+      "timestamp": "2021-09-09 18:43:34.802185"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-2"
+      },
+      "timestamp": "2021-09-09 18:43:34.802199"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08237975102383643,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-3"
+      },
+      "timestamp": "2021-09-09 18:43:34.885131"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 3,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-3"
+      },
+      "timestamp": "2021-09-09 18:43:34.885142"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08108144497964531,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-4"
+      },
+      "timestamp": "2021-09-09 18:43:34.966760"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-4"
+      },
+      "timestamp": "2021-09-09 18:43:34.966772"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08175358199514449,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-5"
+      },
+      "timestamp": "2021-09-09 18:43:35.049143"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-5"
+      },
+      "timestamp": "2021-09-09 18:43:35.049157"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0813708160421811,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-6"
+      },
+      "timestamp": "2021-09-09 18:43:35.131148"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 5,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-6"
+      },
+      "timestamp": "2021-09-09 18:43:35.131160"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08499621698865667,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-7"
+      },
+      "timestamp": "2021-09-09 18:43:35.217099"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 5,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-7"
+      },
+      "timestamp": "2021-09-09 18:43:35.217114"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08349930704571307,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-8"
+      },
+      "timestamp": "2021-09-09 18:43:35.301835"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-8"
+      },
+      "timestamp": "2021-09-09 18:43:35.301855"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0827370110200718,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-9"
+      },
+      "timestamp": "2021-09-09 18:43:35.385243"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-9"
+      },
+      "timestamp": "2021-09-09 18:43:35.385255"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08261978602968156,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-10"
+      },
+      "timestamp": "2021-09-09 18:43:35.468517"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 5,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-3-9804-10"
+      },
+      "timestamp": "2021-09-09 18:43:35.468531"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08491440204670653,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-1"
+      },
+      "timestamp": "2021-09-09 18:43:35.554032"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-1"
+      },
+      "timestamp": "2021-09-09 18:43:35.554043"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0861924440250732,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-2"
+      },
+      "timestamp": "2021-09-09 18:43:35.640755"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-2"
+      },
+      "timestamp": "2021-09-09 18:43:35.640766"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08404370298376307,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-3"
+      },
+      "timestamp": "2021-09-09 18:43:35.725412"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-3"
+      },
+      "timestamp": "2021-09-09 18:43:35.725426"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08629044599365443,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-4"
+      },
+      "timestamp": "2021-09-09 18:43:35.812361"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-4"
+      },
+      "timestamp": "2021-09-09 18:43:35.812373"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.083816847007256,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-5"
+      },
+      "timestamp": "2021-09-09 18:43:35.896783"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-5"
+      },
+      "timestamp": "2021-09-09 18:43:35.896795"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08603454899275675,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-6"
+      },
+      "timestamp": "2021-09-09 18:43:35.983479"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 13,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-6"
+      },
+      "timestamp": "2021-09-09 18:43:35.983492"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08345610601827502,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-7"
+      },
+      "timestamp": "2021-09-09 18:43:36.067571"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 9,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-7"
+      },
+      "timestamp": "2021-09-09 18:43:36.067584"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08660686301300302,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-8"
+      },
+      "timestamp": "2021-09-09 18:43:36.154775"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 13,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-8"
+      },
+      "timestamp": "2021-09-09 18:43:36.154787"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08595563302515075,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-9"
+      },
+      "timestamp": "2021-09-09 18:43:36.241369"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 5,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-9"
+      },
+      "timestamp": "2021-09-09 18:43:36.241384"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08457179699325934,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-10"
+      },
+      "timestamp": "2021-09-09 18:43:36.326554"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-4-5774-10"
+      },
+      "timestamp": "2021-09-09 18:43:36.326567"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09150748798856512,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-1"
+      },
+      "timestamp": "2021-09-09 18:43:36.418672"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-1"
+      },
+      "timestamp": "2021-09-09 18:43:36.418685"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09036168397869915,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-2"
+      },
+      "timestamp": "2021-09-09 18:43:36.509675"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-2"
+      },
+      "timestamp": "2021-09-09 18:43:36.509689"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09199505904689431,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-3"
+      },
+      "timestamp": "2021-09-09 18:43:36.602279"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 13,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-3"
+      },
+      "timestamp": "2021-09-09 18:43:36.602292"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08886083797551692,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-4"
+      },
+      "timestamp": "2021-09-09 18:43:36.691817"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 7,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-4"
+      },
+      "timestamp": "2021-09-09 18:43:36.691831"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.0904250270104967,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-5"
+      },
+      "timestamp": "2021-09-09 18:43:36.782898"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-5"
+      },
+      "timestamp": "2021-09-09 18:43:36.782908"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08981683797901496,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-6"
+      },
+      "timestamp": "2021-09-09 18:43:36.873313"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-6"
+      },
+      "timestamp": "2021-09-09 18:43:36.873325"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08920906198909506,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-7"
+      },
+      "timestamp": "2021-09-09 18:43:36.963135"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-7"
+      },
+      "timestamp": "2021-09-09 18:43:36.963148"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.091088734974619,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-8"
+      },
+      "timestamp": "2021-09-09 18:43:37.054896"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-8"
+      },
+      "timestamp": "2021-09-09 18:43:37.054910"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.09068204602226615,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-9"
+      },
+      "timestamp": "2021-09-09 18:43:37.146149"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 13,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-9"
+      },
+      "timestamp": "2021-09-09 18:43:37.146160"
+    }
+  },
+  {
+    "GenerateOptimalStateValuePairsTime": {
+      "value": 0.08852925000246614,
+      "unit": "seconds",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-10"
+      },
+      "timestamp": "2021-09-09 18:43:37.235269"
+    }
+  },
+  {
+    "NumberOfOptimalStateValuePairs": {
+      "value": 11,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld",
+        "problem": "bw-5-168-10"
+      },
+      "timestamp": "2021-09-09 18:43:37.235282"
+    }
+  },
+  {
+    "TotalNumberOfStateValuePairs": {
+      "value": 258,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.235483"
+    }
+  },
+  {
+    "GenerateAllOptimalStateValuePairsTime": {
+      "value": 2.647855947026983,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.235599"
+    }
+  },
+  {
+    "NumberofMergedTrainingPairs": {
+      "value": 258,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld"
+      },
+      "timestamp": "2021-09-09 18:43:37.236356"
+    }
+  },
+  {
+    "TotalNumberOfMergedTrainingPairs": {
+      "value": 258,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.236560"
+    }
+  },
+  {
+    "FinalNumberOfTrainingPairs": {
+      "value": 258,
+      "unit": "count",
+      "context": {
+        "domain": "blocksworld"
+      },
+      "timestamp": "2021-09-09 18:43:37.238976"
+    }
+  },
+  {
+    "NumberOfTrainingPairsProcessed": {
+      "value": 1290,
+      "unit": "count",
+      "context": {
+        "operation": "StratifiedKFold",
+        "domain": "blocksworld"
+      },
+      "timestamp": "2021-09-09 18:43:37.240676"
+    }
+  },
+  {
+    "TotalFinalNumberOfTrainingPairs": {
+      "value": 258,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.240811"
+    }
+  },
+  {
+    "TotalNumberOfTrainingPairsProcessed": {
+      "value": 1290,
+      "unit": "count",
+      "context": {
+        "operation": "StratifiedKFold"
+      },
+      "timestamp": "2021-09-09 18:43:37.240818"
+    }
+  },
+  {
+    "GetKFoldTrainingDataTime": {
+      "value": 0.004253418010193855,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.241018"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.GenerateTrainingDataTime": {
+      "value": 2.7042246499913745,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.291970"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.ConvertToHypergraphsTupleTime": {
+      "value": 0.5186355959740467,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.810737"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.TotalTime": {
+      "value": 3.2240956639871,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 18:43:37.811842"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 597.3763329429785,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 18:53:35.256358"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 597.4443786059855,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 0
+      },
+      "timestamp": "2021-09-09 18:53:35.256525"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 78,
+      "unit": "count",
+      "context": {
+        "fold_idx": 0
+      },
+      "timestamp": "2021-09-09 18:53:35.257850"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 595.9523091230076,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 19:03:31.215871"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 595.9577635289752,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 1
+      },
+      "timestamp": "2021-09-09 19:03:31.215972"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 89,
+      "unit": "count",
+      "context": {
+        "fold_idx": 1
+      },
+      "timestamp": "2021-09-09 19:03:31.217130"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 596.4672984870267,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 19:13:27.688769"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 596.4712131630513,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 2
+      },
+      "timestamp": "2021-09-09 19:13:27.688889"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 110,
+      "unit": "count",
+      "context": {
+        "fold_idx": 2
+      },
+      "timestamp": "2021-09-09 19:13:27.689968"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 599.9244342949823,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 19:23:27.618464"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 599.928313020966,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 3
+      },
+      "timestamp": "2021-09-09 19:23:27.618602"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 137,
+      "unit": "count",
+      "context": {
+        "fold_idx": 3
+      },
+      "timestamp": "2021-09-09 19:23:27.619686"
+    }
+  },
+  {
+    "TrainSTRIPSHGNWorkflow.TotalTime": {
+      "value": 596.467073133972,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 19:33:24.091109"
+    }
+  },
+  {
+    "RunFoldTrainingTime": {
+      "value": 596.4710299609578,
+      "unit": "seconds",
+      "context": {
+        "fold_idx": 4
+      },
+      "timestamp": "2021-09-09 19:33:24.091222"
+    }
+  },
+  {
+    "NumberOfEpochsTrained": {
+      "value": 138,
+      "unit": "count",
+      "context": {
+        "fold_idx": 4
+      },
+      "timestamp": "2021-09-09 19:33:24.092353"
+    }
+  },
+  {
+    "TrainingDriverMethodTime": {
+      "value": 2989.6092974760104,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 19:33:24.094176"
+    }
+  }
+]

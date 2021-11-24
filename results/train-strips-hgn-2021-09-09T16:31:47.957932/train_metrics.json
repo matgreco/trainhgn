@@ -1,0 +1,50 @@
+[
+  {
+    "NumberOfSTRIPSProblems": {
+      "value": 10,
+      "unit": "count",
+      "context": {},
+      "timestamp": "2021-09-09 16:31:48.022668"
+    }
+  },
+  {
+    "GenerateSTRIPSProblemsTime": {
+      "value": 0.06335118098650128,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 16:31:48.022795"
+    }
+  },
+  {
+    "GenerateAllOptimalStateValuePairsTime": {
+      "value": 0.1680131379980594,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 16:31:48.191818"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.GenerateTrainingDataTime": {
+      "value": 0.16842252196511254,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 16:31:48.191994"
+    }
+  },
+  {
+    "KFoldTrainingDataWorkflow.TotalTime": {
+      "value": 0.16860947699751705,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 16:31:48.192099"
+    }
+  },
+  {
+    "TrainingDriverMethodTime": {
+      "value": 0.23278762097470462,
+      "unit": "seconds",
+      "context": {},
+      "timestamp": "2021-09-09 16:31:48.192231"
+    }
+  }
+]

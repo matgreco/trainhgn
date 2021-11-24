@@ -153,5 +153,5 @@ if __name__ == "__main__":
     eval_demo(
         domain_pddl="../benchmarks/blocks-slaney/domain.pddl",
         problem_pddl="../benchmarks/blocks-slaney/blocks10/task01.pddl",
-        checkpoint="../results/blocksworld-example-new.ckpt",
+        checkpoint="../results/train-strips-hgn-2021-09-09T18:43:34.482915/model-best.ckpt",
     )

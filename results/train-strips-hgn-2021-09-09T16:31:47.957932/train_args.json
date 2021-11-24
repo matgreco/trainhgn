@@ -1,0 +1,31 @@
+{
+  "domain": "../benchmarks/n-puzzle/domain.pddl",
+  "domains": null,
+  "problems": [
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s30.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s31.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s32.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s33.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s34.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s35.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s36.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s37.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s38.pddl",
+    "../benchmarks/n-puzzle/train/n-puzzle-3x3-s39.pddl"
+  ],
+  "debug": true,
+  "num_folds": 5,
+  "num_bins": 4,
+  "remove_duplicates": false,
+  "shuffle": true,
+  "global_feature_mapper_cls": "num_nodes_and_edges",
+  "node_feature_mapper_cls": "simple",
+  "hyperedge_feature_mapper_cls": "complex",
+  "hidden_size": 32,
+  "batch_size": 1,
+  "learning_rate": 0.001,
+  "weight_decay": 0.00025,
+  "max_training_time": 600,
+  "max_epochs": 9999,
+  "patience": 999999
+}

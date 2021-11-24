@@ -1,0 +1,295 @@
+2021-09-09 16:32:40 strips_hgn.utils.logging_setup INFO     Writing logs to /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-09T16:32:40.681855/strips_hgn.log
+2021-09-09 16:32:40 strips_hgn.utils.helpers INFO     Experiment results directory: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-09T16:32:40.681855
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task01.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-1
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-1
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task02.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-2
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-2
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task03.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task04.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-4
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-4
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task05.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-5
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-5
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task01.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-1
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-1
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task02.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-2
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-2
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task03.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task04.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-4
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-4
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task05.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-5
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-5
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities2-planes1-people3-8798.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    13 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities2-planes1-people3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities2-planes1-people3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    18 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    68 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities2-planes2-people3-9145.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    14 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities2-planes2-people3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities2-planes2-people3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    30 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    136 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities2-planes3-people3-3417.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    15 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities2-planes3-people3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities2-planes3-people3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    42 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    204 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities2-planes4-people2-4892.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    15 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities2-planes4-people2
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities2-planes4-people2
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    48 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    256 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities2-planes4-people4-6874.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    17 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities2-planes4-people4
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities2-planes4-people4
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    60 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    288 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities3-planes1-people3-4791.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    14 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities3-planes1-people3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities3-planes1-people3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    22 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    135 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities3-planes2-people3-8752.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    15 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities3-planes2-people3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 5 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities3-planes2-people3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    35 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    258 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities3-planes2-people5-7306.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    17 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities3-planes2-people5
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities3-planes2-people5
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    45 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    294 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities3-planes3-people3-1826.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    16 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities3-planes3-people3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 6 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities3-planes3-people3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    48 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    387 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/zenotravel/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/zenotravel/train/zenotravel-cities3-planes3-people5-4582.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    4 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    18 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: ztravel-cities3-planes3-people5
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: ztravel-cities3-planes3-people5
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    60 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    441 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/gripper/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/gripper/problems/gripper-n1.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    7 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    3 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: gripper-1
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: gripper-1
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    8 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    10 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/gripper/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/gripper/problems/gripper-n2.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    7 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    3 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    6 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: gripper-2
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: gripper-2
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    12 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    18 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/gripper/domain.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/gripper/problems/gripper-n3.pddl
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    7 Predicates parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    3 Actions parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    7 Objects parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: gripper-3
+2021-09-09 16:32:40 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: gripper-3
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    16 Variables created
+2021-09-09 16:32:40 strips_hgn.planning.pyperplan_api DEBUG    26 Operators created
+2021-09-09 16:32:40 strips_hgn.planning.utils INFO     Generated 23 STRIPS Problems
+2021-09-09 16:32:40 strips_hgn.utils.timer INFO     Timer GenerateSTRIPSProblemsTime stopped. Accumulated time: 0.22838s.
+2021-09-09 16:32:40 strips_hgn.workflows.training_data INFO     Max number of EFF+ (receivers) = 3
+2021-09-09 16:32:40 strips_hgn.workflows.training_data INFO     Max number of PREs (senders) = 3
+2021-09-09 16:32:40 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task01.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task01.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task01.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-09 16:32:40 root         INFO     Running translator.
+2021-09-09 16:32:40 root         INFO     translator stdin: None
+2021-09-09 16:32:40 root         INFO     translator time limit: None
+2021-09-09 16:32:40 root         INFO     translator memory limit: None
+2021-09-09 16:32:40 root         INFO     translator command line string: /usr/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task01.pddl --sas-file output.sas
+2021-09-09 16:32:41 strips_hgn.utils.timer DEBUG    Timer GenerateAllOptimalStateValuePairsTime stopped. Accumulated time: 0.15807s.
+2021-09-09 16:32:41 strips_hgn.utils.timer INFO     Timer KFoldTrainingDataWorkflow.GenerateTrainingDataTime stopped. Accumulated time: 0.15848s.
+2021-09-09 16:32:41 strips_hgn.utils.timer INFO     Timer KFoldTrainingDataWorkflow.TotalTime stopped. Accumulated time: 0.1586s.
+2021-09-09 16:32:41 strips_hgn.utils.timer INFO     Timer TrainingDriverMethodTime stopped. Accumulated time: 0.38807s.
+2021-09-09 16:32:41 strips_hgn.utils.wrapper ERROR    An unexpected error occurred.
+Traceback (most recent call last):
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/utils/wrapper.py", line 52, in wrap_method
+    wrapped_method(args, experiments_dir)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/utils/timer.py", line 67, in wrapped_timer
+    return func(*args, **kwargs)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/train.py", line 77, in train_main
+    ] = kfold_training_data_wf.run()
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/utils/timer.py", line 67, in wrapped_timer
+    return func(*args, **kwargs)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/workflows/k_fold_training_data.py", line 216, in run
+    kfold_training_data = self._generate_kfold_training_data()
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/utils/timer.py", line 67, in wrapped_timer
+    return func(*args, **kwargs)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/workflows/k_fold_training_data.py", line 101, in _generate_kfold_training_data
+    problem_to_state_value_pairs = generate_optimal_state_value_pairs(
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/utils/timer.py", line 67, in wrapped_timer
+    return func(*args, **kwargs)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/training_data/generate.py", line 114, in generate_optimal_state_value_pairs
+    state_value_pairs = _generate_optimal_state_value_pairs_for_problem(
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/training_data/generate.py", line 38, in _generate_optimal_state_value_pairs_for_problem
+    optimal_plan: Optional[List[str]] = get_optimal_actions_using_fd(problem)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/src/strips_hgn/planning/fast_downward_api.py", line 42, in get_optimal_actions_using_fd
+    raise RuntimeError(
+RuntimeError: Something went wrong, exit code 30 from Fast Downward (http://www.fast-downward.org/ExitCodes)
+2021-09-09 16:32:41 strips_hgn.utils.metrics INFO     Saved MetricsLogger JSON to /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-09T16:32:40.681855/train_metrics.json

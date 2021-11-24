@@ -1,0 +1,910 @@
+2021-09-23 00:22:23 strips_hgn.utils.logging_setup INFO     Writing logs to /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-23T00:22:23.210530/strips_hgn.log
+2021-09-23 00:22:23 strips_hgn.utils.helpers INFO     Experiment results directory: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-23T00:22:23.210530
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task01.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-1
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-1
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task02.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-2
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-2
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task03.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-3
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-3
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task04.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-4
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-4
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task05.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-5
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-5
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task06.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-6
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-6
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task07.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-7
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-7
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task08.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-8
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-8
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task09.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-9
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-9
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks3/task10.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    3 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-3-9804-10
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-3-9804-10
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    19 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    24 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task01.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-1
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-1
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task02.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-2
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-2
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task03.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-3
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-3
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task04.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-4
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-4
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task05.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-5
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-5
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task06.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-6
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-6
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task07.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-7
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-7
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task08.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-8
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-8
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task09.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-9
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-9
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks4/task10.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-4-5774-10
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-4-5774-10
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    29 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    40 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task01.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-1
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-1
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task02.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-2
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-2
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task03.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-3
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-3
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task04.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-4
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-4
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task05.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-5
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-5
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task06.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-6
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-6
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task07.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-7
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-7
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task08.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-8
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-8
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task09.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-9
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-9
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Domain ../benchmarks/blocks-slaney/domain.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Parsing Problem ../benchmarks/blocks-slaney/blocks5/task10.pddl
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Predicates parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    4 Actions parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    5 Objects parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    0 Constants parsed
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding start: bw-5-168-10
+2021-09-23 00:22:23 pyperplan.grounding INFO     Relevance analysis removed 0 facts
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    Grounding end: bw-5-168-10
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    41 Variables created
+2021-09-23 00:22:23 strips_hgn.planning.pyperplan_api DEBUG    60 Operators created
+2021-09-23 00:22:23 strips_hgn.planning.utils INFO     Generated 30 STRIPS Problems
+2021-09-23 00:22:23 strips_hgn.utils.timer INFO     Timer GenerateSTRIPSProblemsTime stopped. Accumulated time: 0.09779s.
+2021-09-23 00:22:23 strips_hgn.workflows.training_data INFO     Max number of EFF+ (receivers) = 3
+2021-09-23 00:22:23 strips_hgn.workflows.training_data INFO     Max number of PREs (senders) = 3
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task01.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task01.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task01.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task01.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:23 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.10548s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-1'}
+2021-09-23 00:22:23 strips_hgn.training_data.generate DEBUG    Generated 3 state-value pairs for bw-3-9804-1
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task02.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task02.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task02.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task02.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:23 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.0855s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-2'}
+2021-09-23 00:22:23 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-3-9804-2
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task03.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task03.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task03.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task03.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:23 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08299s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-3'}
+2021-09-23 00:22:23 strips_hgn.training_data.generate DEBUG    Generated 3 state-value pairs for bw-3-9804-3
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task04.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task04.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task04.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task04.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:23 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08601s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-4'}
+2021-09-23 00:22:23 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-3-9804-4
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task05.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task05.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task05.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task05.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:23 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08205s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-5'}
+2021-09-23 00:22:23 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-3-9804-5
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task06.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task06.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task06.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task06.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:23 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08372s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-6'}
+2021-09-23 00:22:23 strips_hgn.training_data.generate DEBUG    Generated 5 state-value pairs for bw-3-9804-6
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task07.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task07.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task07.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task07.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:23 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08422s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-7'}
+2021-09-23 00:22:23 strips_hgn.training_data.generate DEBUG    Generated 5 state-value pairs for bw-3-9804-7
+2021-09-23 00:22:23 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task08.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task08.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task08.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:23 root         INFO     Running translator.
+2021-09-23 00:22:23 root         INFO     translator stdin: None
+2021-09-23 00:22:23 root         INFO     translator time limit: None
+2021-09-23 00:22:23 root         INFO     translator memory limit: None
+2021-09-23 00:22:23 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task08.pddl --sas-file output.sas
+2021-09-23 00:22:23 root         INFO     Running search (release).
+2021-09-23 00:22:23 root         INFO     search stdin: output.sas
+2021-09-23 00:22:23 root         INFO     search time limit: None
+2021-09-23 00:22:23 root         INFO     search memory limit: None
+2021-09-23 00:22:23 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08212s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-8'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-3-9804-8
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task09.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task09.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task09.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task09.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08343s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-9'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 9 state-value pairs for bw-3-9804-9
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task10.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task10.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks3/task10.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks3/task10.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08579s. Context: {'domain': 'blocksworld', 'problem': 'bw-3-9804-10'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 5 state-value pairs for bw-3-9804-10
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task01.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task01.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task01.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task01.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08772s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-1'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-4-5774-1
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task02.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task02.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task02.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task02.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08695s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-2'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 9 state-value pairs for bw-4-5774-2
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task03.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task03.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task03.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task03.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08751s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-3'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 9 state-value pairs for bw-4-5774-3
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task04.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task04.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task04.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task04.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08632s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-4'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-4-5774-4
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task05.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task05.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task05.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task05.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08963s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-5'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-4-5774-5
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task06.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task06.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task06.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task06.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08624s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-6'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 13 state-value pairs for bw-4-5774-6
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task07.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task07.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task07.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task07.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08374s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-7'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 9 state-value pairs for bw-4-5774-7
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task08.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task08.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task08.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task08.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08686s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-8'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 13 state-value pairs for bw-4-5774-8
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task09.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task09.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task09.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task09.pddl --sas-file output.sas
+2021-09-23 00:22:24 root         INFO     Running search (release).
+2021-09-23 00:22:24 root         INFO     search stdin: output.sas
+2021-09-23 00:22:24 root         INFO     search time limit: None
+2021-09-23 00:22:24 root         INFO     search memory limit: None
+2021-09-23 00:22:24 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:24 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09015s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-9'}
+2021-09-23 00:22:24 strips_hgn.training_data.generate DEBUG    Generated 5 state-value pairs for bw-4-5774-9
+2021-09-23 00:22:24 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task10.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task10.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks4/task10.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:24 root         INFO     Running translator.
+2021-09-23 00:22:24 root         INFO     translator stdin: None
+2021-09-23 00:22:24 root         INFO     translator time limit: None
+2021-09-23 00:22:24 root         INFO     translator memory limit: None
+2021-09-23 00:22:24 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks4/task10.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08568s. Context: {'domain': 'blocksworld', 'problem': 'bw-4-5774-10'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-4-5774-10
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task01.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task01.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task01.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task01.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.08902s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-1'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-5-168-1
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task02.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task02.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task02.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task02.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09046s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-2'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-5-168-2
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task03.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task03.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task03.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task03.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09199s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-3'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 13 state-value pairs for bw-5-168-3
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task04.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task04.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task04.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task04.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09224s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-4'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 7 state-value pairs for bw-5-168-4
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task05.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task05.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task05.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task05.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09016s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-5'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-5-168-5
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task06.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task06.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task06.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task06.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09323s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-6'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-5-168-6
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task07.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task07.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task07.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task07.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09164s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-7'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-5-168-7
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task08.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task08.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task08.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task08.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09195s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-8'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-5-168-8
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task09.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task09.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task09.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task09.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09336s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-9'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 13 state-value pairs for bw-5-168-9
+2021-09-23 00:22:25 root         DEBUG    processed args: Namespace(alias=None, build='release', cleanup=False, components=['translate', 'search'], debug=False, filenames=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task10.pddl'], keep_sas_file=False, log_level='info', overall_memory_limit=None, overall_time_limit=None, plan_file='sas_plan', planner_args=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task10.pddl', '--search', 'astar(lmcut(), max_time=120)'], portfolio=None, portfolio_bound=None, portfolio_single_plan=False, run_all=False, sas_file='output.sas', search=False, search_input='output.sas', search_memory_limit=None, search_options=['--search', 'astar(lmcut(), max_time=120)'], search_time_limit=None, show_aliases=False, translate=False, translate_inputs=['../benchmarks/blocks-slaney/domain.pddl', '../benchmarks/blocks-slaney/blocks5/task10.pddl'], translate_memory_limit=None, translate_options=['--sas-file', 'output.sas'], translate_time_limit=None, validate=False, validate_memory_limit=None, validate_time_limit=None, version=False)
+2021-09-23 00:22:25 root         INFO     Running translator.
+2021-09-23 00:22:25 root         INFO     translator stdin: None
+2021-09-23 00:22:25 root         INFO     translator time limit: None
+2021-09-23 00:22:25 root         INFO     translator memory limit: None
+2021-09-23 00:22:25 root         INFO     translator command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_strips_hgn/venv_hgn/bin/python3 /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/translate/translate.py ../benchmarks/blocks-slaney/domain.pddl ../benchmarks/blocks-slaney/blocks5/task10.pddl --sas-file output.sas
+2021-09-23 00:22:25 root         INFO     Running search (release).
+2021-09-23 00:22:25 root         INFO     search stdin: output.sas
+2021-09-23 00:22:25 root         INFO     search time limit: None
+2021-09-23 00:22:25 root         INFO     search memory limit: None
+2021-09-23 00:22:25 root         INFO     search command line string: /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/fast_downward/builds/release/bin/downward --search 'astar(lmcut(), max_time=120)' --internal-plan-file sas_plan < output.sas
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateOptimalStateValuePairsTime stopped. Accumulated time: 0.09219s. Context: {'domain': 'blocksworld', 'problem': 'bw-5-168-10'}
+2021-09-23 00:22:25 strips_hgn.training_data.generate DEBUG    Generated 11 state-value pairs for bw-5-168-10
+2021-09-23 00:22:25 strips_hgn.training_data.generate INFO     Generated 258 state-value pairs in total for 30 tasks
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GenerateAllOptimalStateValuePairsTime stopped. Accumulated time: 2.66702s.
+2021-09-23 00:22:25 strips_hgn.training_data.merge DEBUG    Merged 258 training pairs for 'blocksworld'
+2021-09-23 00:22:25 strips_hgn.training_data.merge INFO     Merged 258 training pairs in total
+2021-09-23 00:22:25 strips_hgn.training_data.process INFO     Processing training data for 'blocksworld'
+2021-09-23 00:22:25 strips_hgn.training_data.process DEBUG    Split heuristic values into 4 bins
+2021-09-23 00:22:25 strips_hgn.training_data.process DEBUG    Bin Edges: [array([ 0.,  2.,  4.,  6., 12.])]
+2021-09-23 00:22:25 strips_hgn.training_data.process DEBUG    Bin Frequencies: Counter({3.0: 88, 0.0: 60, 1.0: 58, 2.0: 52})
+2021-09-23 00:22:25 strips_hgn.training_data.process DEBUG    Heuristic Frequencies: Counter({2: 30, 1: 30, 0: 30, 4: 28, 3: 28, 6: 24, 5: 24, 8: 16, 7: 16, 10: 12, 9: 12, 12: 4, 11: 4})
+2021-09-23 00:22:25 strips_hgn.training_data.process INFO     Finished generating k-fold training data
+2021-09-23 00:22:25 strips_hgn.utils.timer DEBUG    Timer GetKFoldTrainingDataTime stopped. Accumulated time: 0.00663s.
+2021-09-23 00:22:26 strips_hgn.training_data.save INFO     Saved training data details to /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-23T00:22:23.210530/training_data
+2021-09-23 00:22:26 strips_hgn.utils.timer INFO     Timer KFoldTrainingDataWorkflow.GenerateTrainingDataTime stopped. Accumulated time: 2.72757s.
+2021-09-23 00:22:26 strips_hgn.workflows.k_fold_training_data INFO     Successfully created HypergraphsTupleDataset for training data.
+2021-09-23 00:22:26 strips_hgn.utils.timer INFO     Timer KFoldTrainingDataWorkflow.ConvertToHypergraphsTupleTime stopped. Accumulated time: 0.50698s.
+2021-09-23 00:22:26 strips_hgn.utils.timer INFO     Timer KFoldTrainingDataWorkflow.TotalTime stopped. Accumulated time: 3.2358s.
+2021-09-23 00:22:26 train        INFO     Running training workflow for fold 1 out of 5
+2021-09-23 00:22:26 strips_hgn.models.strips_hgn INFO     STRIPS-HGN hparams:
+{
+  "global_feature_mapper": "num_nodes_and_edges",
+  "hyperedge_feature_mapper": "complex",
+  "node_feature_mapper": "simple",
+  "receiver_k": 3,
+  "sender_k": 3,
+  "hidden_size": 32
+}
+2021-09-23 00:22:26 strips_hgn.torch_utils.lightning_callbacks INFO     Early stopping patience = 999999 epochs, max training time set to 600s
+2021-09-23 00:22:26 lightning    INFO     GPU available: True, used: False
+2021-09-23 00:22:26 lightning    WARNING  No environment variable for node rank defined. Set as 0.
+2021-09-23 00:22:26 strips_hgn.workflows.train_strips_hgn INFO     STRIPS-HGN total number of learnable parameters: 30401
+2021-09-23 00:22:26 strips_hgn.workflows.train_strips_hgn INFO     Training dataloader size: 206, Validation dataloader size: 52
+2021-09-23 00:22:26 strips_hgn.workflows.train_strips_hgn INFO     Max training 600 seconds or 9999 epochs, whichever is reached first
+2021-09-23 00:22:26 lightning    INFO     
+   | Name                                                 | Type                           | Params
+----------------------------------------------------------------------------------------------------
+0  | _criterion                                           | MSELoss                        | 0     
+1  | hgn                                                  | EncodeProcessDecode            | 30 K  
+2  | hgn._encoder                                         | MLPGraphIndependent            | 3 K   
+3  | hgn._encoder._gn                                     | GraphIndependent               | 3 K   
+4  | hgn._encoder._gn._edge_model                         | Sequential                     | 1 K   
+5  | hgn._encoder._gn._edge_model.0                       | Linear                         | 128   
+6  | hgn._encoder._gn._edge_model.1                       | LeakyReLU                      | 0     
+7  | hgn._encoder._gn._edge_model.2                       | Linear                         | 1 K   
+8  | hgn._encoder._gn._edge_model.3                       | LeakyReLU                      | 0     
+9  | hgn._encoder._gn._node_model                         | Sequential                     | 1 K   
+10 | hgn._encoder._gn._node_model.0                       | Linear                         | 96    
+11 | hgn._encoder._gn._node_model.1                       | LeakyReLU                      | 0     
+12 | hgn._encoder._gn._node_model.2                       | Linear                         | 1 K   
+13 | hgn._encoder._gn._node_model.3                       | LeakyReLU                      | 0     
+14 | hgn._encoder._gn._global_model                       | Sequential                     | 1 K   
+15 | hgn._encoder._gn._global_model.0                     | Linear                         | 96    
+16 | hgn._encoder._gn._global_model.1                     | LeakyReLU                      | 0     
+17 | hgn._encoder._gn._global_model.2                     | Linear                         | 1 K   
+18 | hgn._encoder._gn._global_model.3                     | LeakyReLU                      | 0     
+19 | hgn._core                                            | MLPGraphNetwork                | 24 K  
+20 | hgn._core._gn                                        | GraphNetwork                   | 24 K  
+21 | hgn._core._gn._edge_block                            | EdgeBlock                      | 15 K  
+22 | hgn._core._gn._edge_block._edge_model                | Sequential                     | 15 K  
+23 | hgn._core._gn._edge_block._edge_model.0              | Linear                         | 14 K  
+24 | hgn._core._gn._edge_block._edge_model.1              | LeakyReLU                      | 0     
+25 | hgn._core._gn._edge_block._edge_model.2              | Linear                         | 1 K   
+26 | hgn._core._gn._edge_block._edge_model.3              | LeakyReLU                      | 0     
+27 | hgn._core._gn._node_block                            | NodeBlock                      | 4 K   
+28 | hgn._core._gn._node_block._node_model                | Sequential                     | 4 K   
+29 | hgn._core._gn._node_block._node_model.0              | Linear                         | 3 K   
+30 | hgn._core._gn._node_block._node_model.1              | LeakyReLU                      | 0     
+31 | hgn._core._gn._node_block._node_model.2              | Linear                         | 1 K   
+32 | hgn._core._gn._node_block._node_model.3              | LeakyReLU                      | 0     
+33 | hgn._core._gn._node_block._received_edges_aggregator | ReceivedEdgesToNodesAggregator | 0     
+34 | hgn._core._gn._global_block                          | GlobalBlock                    | 5 K   
+35 | hgn._core._gn._global_block._global_model            | Sequential                     | 5 K   
+36 | hgn._core._gn._global_block._global_model.0          | Linear                         | 4 K   
+37 | hgn._core._gn._global_block._global_model.1          | LeakyReLU                      | 0     
+38 | hgn._core._gn._global_block._global_model.2          | Linear                         | 1 K   
+39 | hgn._core._gn._global_block._global_model.3          | LeakyReLU                      | 0     
+40 | hgn._core._gn._global_block._edges_aggregator        | EdgesToGlobalsAggregator       | 0     
+41 | hgn._core._gn._global_block._nodes_aggregator        | NodesToGlobalsAggregator       | 0     
+42 | hgn._decoder                                         | MLPGraphIndependent            | 2 K   
+43 | hgn._decoder._gn                                     | GraphIndependent               | 2 K   
+44 | hgn._decoder._gn._global_model                       | Sequential                     | 2 K   
+45 | hgn._decoder._gn._global_model.0                     | Linear                         | 1 K   
+46 | hgn._decoder._gn._global_model.1                     | LeakyReLU                      | 0     
+47 | hgn._decoder._gn._global_model.2                     | Linear                         | 1 K   
+48 | hgn._decoder._gn._global_model.3                     | LeakyReLU                      | 0     
+49 | hgn._output_transform                                | GraphIndependent               | 33    
+50 | hgn._output_transform._global_model                  | Sequential                     | 33    
+51 | hgn._output_transform._global_model.0                | Linear                         | 33    
+52 | hgn._output_transform._global_model.1                | ReLU                           | 0     
+2021-09-23 00:22:31 lightning    INFO     
+Epoch 00000: val_loss reached 12.86242 (best 12.86242), saving model to /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-23T00:22:23.210530/fold_0/epoch=0-val_loss=12.8624.ckpt as top 10
+2021-09-23 00:22:36 lightning    INFO     
+Epoch 00001: val_loss reached 9.90052 (best 9.90052), saving model to /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-23T00:22:23.210530/fold_0/epoch=1-val_loss=9.9005.ckpt as top 10
+2021-09-23 00:22:36 lightning    INFO     Detected KeyboardInterrupt, attempting graceful shutdown...
+2021-09-23 00:22:36 strips_hgn.utils.timer INFO     Timer TrainSTRIPSHGNWorkflow.TotalTime stopped. Accumulated time: 9.92949s.
+2021-09-23 00:22:36 strips_hgn.utils.timer INFO     Timer RunFoldTrainingTime stopped. Accumulated time: 10.02151s. Context: {'fold_idx': 0}
+2021-09-23 00:22:36 train        INFO     New best val loss found at fold 1 = 9.900524139404297
+2021-09-23 00:22:36 train        INFO     Running training workflow for fold 2 out of 5
+2021-09-23 00:22:36 strips_hgn.models.strips_hgn INFO     STRIPS-HGN hparams:
+{
+  "global_feature_mapper": "num_nodes_and_edges",
+  "hyperedge_feature_mapper": "complex",
+  "node_feature_mapper": "simple",
+  "receiver_k": 3,
+  "sender_k": 3,
+  "hidden_size": 32
+}
+2021-09-23 00:22:36 strips_hgn.torch_utils.lightning_callbacks INFO     Early stopping patience = 999999 epochs, max training time set to 600s
+2021-09-23 00:22:36 lightning    INFO     GPU available: True, used: False
+2021-09-23 00:22:36 lightning    WARNING  No environment variable for node rank defined. Set as 0.
+2021-09-23 00:22:36 strips_hgn.workflows.train_strips_hgn INFO     STRIPS-HGN total number of learnable parameters: 30401
+2021-09-23 00:22:36 strips_hgn.workflows.train_strips_hgn INFO     Training dataloader size: 206, Validation dataloader size: 52
+2021-09-23 00:22:36 strips_hgn.workflows.train_strips_hgn INFO     Max training 600 seconds or 9999 epochs, whichever is reached first
+2021-09-23 00:22:36 lightning    INFO     
+   | Name                                                 | Type                           | Params
+----------------------------------------------------------------------------------------------------
+0  | _criterion                                           | MSELoss                        | 0     
+1  | hgn                                                  | EncodeProcessDecode            | 30 K  
+2  | hgn._encoder                                         | MLPGraphIndependent            | 3 K   
+3  | hgn._encoder._gn                                     | GraphIndependent               | 3 K   
+4  | hgn._encoder._gn._edge_model                         | Sequential                     | 1 K   
+5  | hgn._encoder._gn._edge_model.0                       | Linear                         | 128   
+6  | hgn._encoder._gn._edge_model.1                       | LeakyReLU                      | 0     
+7  | hgn._encoder._gn._edge_model.2                       | Linear                         | 1 K   
+8  | hgn._encoder._gn._edge_model.3                       | LeakyReLU                      | 0     
+9  | hgn._encoder._gn._node_model                         | Sequential                     | 1 K   
+10 | hgn._encoder._gn._node_model.0                       | Linear                         | 96    
+11 | hgn._encoder._gn._node_model.1                       | LeakyReLU                      | 0     
+12 | hgn._encoder._gn._node_model.2                       | Linear                         | 1 K   
+13 | hgn._encoder._gn._node_model.3                       | LeakyReLU                      | 0     
+14 | hgn._encoder._gn._global_model                       | Sequential                     | 1 K   
+15 | hgn._encoder._gn._global_model.0                     | Linear                         | 96    
+16 | hgn._encoder._gn._global_model.1                     | LeakyReLU                      | 0     
+17 | hgn._encoder._gn._global_model.2                     | Linear                         | 1 K   
+18 | hgn._encoder._gn._global_model.3                     | LeakyReLU                      | 0     
+19 | hgn._core                                            | MLPGraphNetwork                | 24 K  
+20 | hgn._core._gn                                        | GraphNetwork                   | 24 K  
+21 | hgn._core._gn._edge_block                            | EdgeBlock                      | 15 K  
+22 | hgn._core._gn._edge_block._edge_model                | Sequential                     | 15 K  
+23 | hgn._core._gn._edge_block._edge_model.0              | Linear                         | 14 K  
+24 | hgn._core._gn._edge_block._edge_model.1              | LeakyReLU                      | 0     
+25 | hgn._core._gn._edge_block._edge_model.2              | Linear                         | 1 K   
+26 | hgn._core._gn._edge_block._edge_model.3              | LeakyReLU                      | 0     
+27 | hgn._core._gn._node_block                            | NodeBlock                      | 4 K   
+28 | hgn._core._gn._node_block._node_model                | Sequential                     | 4 K   
+29 | hgn._core._gn._node_block._node_model.0              | Linear                         | 3 K   
+30 | hgn._core._gn._node_block._node_model.1              | LeakyReLU                      | 0     
+31 | hgn._core._gn._node_block._node_model.2              | Linear                         | 1 K   
+32 | hgn._core._gn._node_block._node_model.3              | LeakyReLU                      | 0     
+33 | hgn._core._gn._node_block._received_edges_aggregator | ReceivedEdgesToNodesAggregator | 0     
+34 | hgn._core._gn._global_block                          | GlobalBlock                    | 5 K   
+35 | hgn._core._gn._global_block._global_model            | Sequential                     | 5 K   
+36 | hgn._core._gn._global_block._global_model.0          | Linear                         | 4 K   
+37 | hgn._core._gn._global_block._global_model.1          | LeakyReLU                      | 0     
+38 | hgn._core._gn._global_block._global_model.2          | Linear                         | 1 K   
+39 | hgn._core._gn._global_block._global_model.3          | LeakyReLU                      | 0     
+40 | hgn._core._gn._global_block._edges_aggregator        | EdgesToGlobalsAggregator       | 0     
+41 | hgn._core._gn._global_block._nodes_aggregator        | NodesToGlobalsAggregator       | 0     
+42 | hgn._decoder                                         | MLPGraphIndependent            | 2 K   
+43 | hgn._decoder._gn                                     | GraphIndependent               | 2 K   
+44 | hgn._decoder._gn._global_model                       | Sequential                     | 2 K   
+45 | hgn._decoder._gn._global_model.0                     | Linear                         | 1 K   
+46 | hgn._decoder._gn._global_model.1                     | LeakyReLU                      | 0     
+47 | hgn._decoder._gn._global_model.2                     | Linear                         | 1 K   
+48 | hgn._decoder._gn._global_model.3                     | LeakyReLU                      | 0     
+49 | hgn._output_transform                                | GraphIndependent               | 33    
+50 | hgn._output_transform._global_model                  | Sequential                     | 33    
+51 | hgn._output_transform._global_model.0                | Linear                         | 33    
+52 | hgn._output_transform._global_model.1                | ReLU                           | 0     
+2021-09-23 00:22:37 lightning    INFO     Detected KeyboardInterrupt, attempting graceful shutdown...
+2021-09-23 00:22:37 strips_hgn.utils.timer INFO     Timer TrainSTRIPSHGNWorkflow.TotalTime stopped. Accumulated time: 0.64078s.
+2021-09-23 00:22:37 strips_hgn.utils.timer INFO     Timer RunFoldTrainingTime stopped. Accumulated time: 0.64501s. Context: {'fold_idx': 1}
+2021-09-23 00:22:37 strips_hgn.utils.timer INFO     Timer TrainingDriverMethodTime stopped. Accumulated time: 14.00214s.
+2021-09-23 00:22:37 strips_hgn.utils.wrapper ERROR    An unexpected error occurred.
+Traceback (most recent call last):
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/strips_hgn/utils/wrapper.py", line 52, in wrap_method
+    wrapped_method(args, experiments_dir)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/strips_hgn/utils/timer.py", line 67, in wrapped_timer
+    return func(*args, **kwargs)
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/train.py", line 137, in train_main
+    or current_train_wf.best_val_loss < best_train_wf.best_val_loss
+  File "/home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/src/strips_hgn/workflows/train_strips_hgn.py", line 103, in best_val_loss
+    return min(self._model_checkpoint_callback.best_k_models.values())
+ValueError: min() arg is an empty sequence
+2021-09-23 00:22:37 strips_hgn.utils.metrics INFO     Saved MetricsLogger JSON to /home/mat/Doctorado/planning_learned_heuristic/shen_fd_strips_hgn/STRIPS-HGN/results/train-strips-hgn-2021-09-23T00:22:23.210530/train_metrics.json
